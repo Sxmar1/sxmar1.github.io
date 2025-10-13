@@ -1,0 +1,74 @@
+img {
+    width: 230px;
+    margin: 10px auto;
+    border-radius: 20px
+}
+
+html {
+    background-color: lightblue;
+}
+
+body {
+    text-align: center;
+}
+
+.aboutmeText {
+    margin: 0 auto;
+    text-align: left;
+    padding: 20px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    max-width: 650px;
+}
+
+.aboutmeText p {
+    font-size: 18px;
+}
+
+
+.aboutmeText h2 {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.skillsParagraph {
+    margin: 10px auto;
+    text-align: left;
+    padding: 20px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    max-width: 650px;
+}
+
+.skillsParagraph p {
+    font-size: 18px;
+}
+
+.skillsParagraph h2 {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.footer {
+    margin: 1px auto;
+    text-align: left;
+    padding: 20px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    max-width: 650px;
+
+}
+
+.footer p {
+    margin: 2px 20px;
+    text-align: center;
+    font-size: 18px;
+}
+
+hr {
+    width: 350px;
+    border: 5px solid black;
+    border-radius: 100px;
+    padding: 10px;
+    margin-top: -10px;
+}
